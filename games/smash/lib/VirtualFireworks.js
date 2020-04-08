@@ -1,5 +1,5 @@
 /**
- * @author S. Vijaykoushik {@link https://svijaykoushik.github.io/ | Author}
+ * @author S. Vijaykoushik {@link https://monkeyank.github.io/ShapeFitWebsite/ | Author}
  * @description A phaser plugin that can launch fireworks automatically on the game.
  */
 (
