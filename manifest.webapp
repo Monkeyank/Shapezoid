@@ -19,16 +19,6 @@
     "*"
   ],
   "locales": {
-    "es": {
-      "name": "Vijay Koushik",
-      "description": "Desarrollador de software",
-      "permissions": {}
-    },
-      "ta": { 
-      "name": "விஜய் கௌசிக்",
-      "description": "மென்பொருள் உருவாக்குபவர்",
-      "permissions": {}
-      }
   },
   "default_locale": "en"
 }
